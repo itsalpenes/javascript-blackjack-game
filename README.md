@@ -14,7 +14,7 @@ The game is developed using HTML, CSS, and JavaScript for the browser. Players i
 
 1. Clone or download the project files to your computer.
 2. Open the downloaded files in a web browser.
-3. Start the game by opening the `index.html` file.
+3. Start the game by opening the `blackjack.html` file.
 
 ## Screenshots
 
