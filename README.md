@@ -18,6 +18,7 @@ The game is developed using HTML, CSS, and JavaScript for the browser. Players i
 
 ## Screenshots
 
+![blackjack](https://github.com/itsalpenes/javascript-blackjack-game/assets/138137265/7281b0cf-81ca-43b0-b78e-cbafd31e71b6)
 
 
 ## Contribution
